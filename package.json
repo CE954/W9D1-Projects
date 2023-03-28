@@ -1,0 +1,15 @@
+{
+  "name": "w9d1-projects",
+  "version": "1.0.0",
+  "description": "Asteroid game",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "Christian, Leah",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1"
+  }
+}
